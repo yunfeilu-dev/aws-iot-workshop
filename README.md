@@ -12,3 +12,9 @@ chmod +x ./start.sh ./init.sh
 
 # step 5
 ./start.sh
+
+
+# some commands
+
+
+dd if=/dev/zero of=/dev/null
